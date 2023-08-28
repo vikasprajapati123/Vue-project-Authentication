@@ -13,7 +13,7 @@
         <a class="nav-link" href="#">Add Restaurant</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Update Restaurant</a>
+        <a class="nav-link" href="#">Update Restaur</a>
       </li>
       <li class="nav-item">
         <a class="nav-link " @click="LogOut">Logoutt</a>
