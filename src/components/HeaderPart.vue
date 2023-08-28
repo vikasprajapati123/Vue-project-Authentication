@@ -16,7 +16,7 @@
         <a class="nav-link" href="#">Update Restaurant</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " @click="LogOut">Logout</a>
+        <a class="nav-link " @click="LogOut">Logoutt</a>
       </li>
     </ul>
   </div>
