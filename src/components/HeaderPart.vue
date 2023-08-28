@@ -10,10 +10,10 @@
         <a class="nav-link" href="#">Home </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Add Restaurant</a>
+        <a class="nav-link" href="#">Add Restaurants</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Update Restaur</a>
+        <a class="nav-link" href="#">Update Resdftaurant</a>
       </li>
       <li class="nav-item">
         <a class="nav-link " @click="LogOut">Logoutt</a>
