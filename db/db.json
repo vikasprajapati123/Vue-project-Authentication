@@ -52,6 +52,32 @@
       "email": "sonu@gmail.com",
       "password": "123",
       "id": 9
+    },
+    {
+      "name": "vikas",
+      "email": "demo_test@gmail.com",
+      "password": "12345678",
+      "id": 10
+    },
+    {
+      "name": "vikas",
+      "email": "vikas123@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "neha",
+      "email": "neha@gmail.com",
+      "password": "123",
+      "id": 12
+    }
+  ],
+  "restaurent": [
+    {
+      "name": "kasnd",
+      "contact": "jasndj",
+      "location": "jbasdjbjhbasd",
+      "id": 1
     }
   ]
 }
